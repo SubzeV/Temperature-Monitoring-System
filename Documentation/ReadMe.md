@@ -17,7 +17,7 @@
 ## How to use?
 Download all the files from the source (or releases tab for stable releases) and upload each piece of code to the correct microcontroller.
 
-Please remember to adjust the variables such as the WiFi name and password as well as the MQTT details and Blynk details where necessary BEFORE uploading to the microcontroller.
+Please remember to adjust the variables such as the WiFi name and password as well as the MQTT details and Blynk details where necessary ***BEFORE*** uploading to the microcontroller.
 
 Also make sure to have the correct libraries installed in the Arduino IDE or Platform.io project!
 
