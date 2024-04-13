@@ -1,5 +1,5 @@
-#define BLYNK_TEMPLATE_ID   "user7"
-#define BLYNK_TEMPLATE_NAME "user7@server.wyns.it"
+#define BLYNK_TEMPLATE_ID   "template_id"
+#define BLYNK_TEMPLATE_NAME "template_name"
 #define BLYNK_PRINT Serial
 
 #include <ESP8266WiFi.h>
