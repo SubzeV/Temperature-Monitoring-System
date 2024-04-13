@@ -1,7 +1,5 @@
 # Project documantation
 
-## This page is still a WIP!
-
 ## What do I need for this project?
 - An arduino uno R4 WiFi
 - One or more ESP32s (Devboard V1, etc.)
